@@ -1,5 +1,5 @@
-../scrapbook
 papermill
 matplotlib
 ipywidgets
 ipykernel
+-e .
